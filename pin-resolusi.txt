@@ -1,3 +1,4 @@
 PIN Resolusi
 - submit paper
 - membuat platform untuk mengelolal ai
+- tambahan setelah edit
